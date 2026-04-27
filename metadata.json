@@ -1,0 +1,6 @@
+{
+  "name": "NeonSnake Player",
+  "description": "A retro-futuristic Snake game bundled with a built-in music player featuring synthwave tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
